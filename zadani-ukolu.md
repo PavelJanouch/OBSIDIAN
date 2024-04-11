@@ -69,7 +69,6 @@ Pro segmentaci uživatelů můžeme využít jejich aktivitu na sociálních mé
 
 Vytvořte report obsahující výsledky analýz, vizualizace a doporučení pro optimalizaci obsahu a interakce na sociálních médiích.
 
-<details>
 <summary>Řešení</summary>
 
 Výstupem z analýzy by měl být report obsahující výsledky identifikovaných trendů, analýzy popularity příspěvků, segmentaci uživatelů a analýzy sentimentu. Na základě těchto výsledků můžeme formulovat doporučení pro optimalizaci obsahu a interakce na sociálních médiích, jako je časování příspěvků, typ obsahu a cílení publika.
